@@ -1,0 +1,39 @@
+.menu{
+    display: flex;
+    justify-content: center;
+    background-color: #E1EDE6;
+}
+
+.textMenu{
+    margin: 10px;
+}
+.container{
+    display: flex;
+}
+.block1{
+    flex: 1;
+    position: relative;
+    left: 200px;
+}
+.myColor{
+    color: green;
+}
+.myText{
+    font-family: Raleway;
+font-size: 18px;
+font-weight: 500;
+line-height: 27px;
+text-align: left;
+
+}
+
+.mybtn{
+    width: Hug (225px)px;
+height: Fixed (65px)px;
+top: 266px;
+padding: 20px 60px 20px 60px;
+gap: 6px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+
+}
